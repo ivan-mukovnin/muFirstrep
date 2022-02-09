@@ -6,6 +6,7 @@ const fullPrice = 10000;
 const adaptive = true;
 
 
+
 console.log(typeof title);
 console.log(typeof fullPrice);
 console.log(typeof adaptive);
